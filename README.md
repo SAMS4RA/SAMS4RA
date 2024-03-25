@@ -13,7 +13,12 @@ $$\text{\color{#7b51c4}{mar | mars}}$$
  <p align="center">
  $$\text{\color{#7b51c4}{work in progress}}$$
  </p>
- 
+
+
+
+ <p align="center">
+ <em>these people !!! : </em>
+ </p>
 <div align="center">
 
-#### [plchldr](https://github.com/pulsariintrigue) ㅤ[plchldr](https://github.com/pulsariintrigue)ㅤ [plchldr](https://github.com/pulsariintrigue)<p/>
+#### [@UNPLEASANTGRADIENT](https://github.com/UNPLEASANTGRADlENT) , [@deathdelivery](https://github.com/deathdelivery)<p/>
