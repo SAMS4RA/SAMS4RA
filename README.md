@@ -1,4 +1,4 @@
-@@ -1,26 +1,22 @@
+
 <p align="center">
 <img src="https://static.wikia.nocookie.net/gensin-impact/images/9/9f/Starlit_Letter_Archive_Icon_Wriothesley.png/revision/latest?cb=20240118215105" width="150" height="150" border="10"/>
 <img src="https://64.media.tumblr.com/9507367cda76a0bbee4f7991ed81eddd/e93784e4420155a5-18/s250x400/d9016961304b0af266551e6980c5ab63c3dbe2cd.pnj" width="240" height="125" border="10"/>
