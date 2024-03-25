@@ -8,7 +8,7 @@ $$\text{\color{#7b51c4}{mar | mars}}$$
   <em>any pronouns</em>
  </p>
  <p align="center">
-   <em>work in progress</em>
+   <em>ic by kadesart on twt</em>
  
  <p align="center">
  $$\text{\color{#7b51c4}{work in progress}}$$
