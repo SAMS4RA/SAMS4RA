@@ -30,4 +30,4 @@
  </p>
 <div align="center">
 
-#### [@UNPLEASANTGRADIENT](https://github.com/UNPLEASANTGRADlENT) , [@deathdelivery](https://github.com/deathdelivery)<p/>
+#### [@deathdelivery](https://github.com/deathdelivery) , [@seraphism](https://github.com/seraphism)<p/>
