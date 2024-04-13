@@ -17,7 +17,7 @@
   <em>any pronouns</em>
  </p>
  <p align="center">
-   <em>aaaaaaaaaaaaaaaaaa</em>
+   <em>friends in following</em>
  
  <p align="center">
  $$\text{\color{#5c4d3d}{work in progress}}$$
