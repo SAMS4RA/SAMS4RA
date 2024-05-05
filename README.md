@@ -17,7 +17,7 @@
   <em>any pronouns</em>
  </p>
  <p align="center">
-   <em>friends in following</em>
+   <em>cool ppl in following</em>
  
  <p align="center">
  $$\text{\color{#5c4d3d}{ponytown is very laggy for me recently, i do apologize if i do not reply to your message.}}$$
