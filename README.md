@@ -1,13 +1,7 @@
  </p>
- <p align="center">
-  <img src="https://64.media.tumblr.com/ee0659edab2da04a39384017c318bd54/af93f42041705700-2f/s1280x1920/0921159a8afdebb76a4c1318bb0c0d1e0f81e6c1.pnj"/>
-</p>
 
 <h2 align="center" >
- $$\text{\color{#5c4d3d}{mar | mars}}$$
-</h2>
-<h2 align="center" >
-<img src="https://i.postimg.cc/HLZn51vX/image.png"/>
+ $$\text{\color{#521818}{mar | mars}}$$
 </h2>
 
 <p align="center">
@@ -20,7 +14,7 @@
    <em>cool ppl in following</em>
  
  <p align="center">
- $$\text{\color{#5c4d3d}{ponytown is very laggy for me recently, i do apologize if i do not reply to your message.}}$$
+ $$\text{\color{#521818}{c+h is okay! im always offtabbed most of the time so whisper me if you wanna int :)}}$$
  </p>
 
 
