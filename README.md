@@ -10,8 +10,6 @@
 <p align="center" >
   <em>any pronouns</em>
  </p>
- <p align="center">
-   <em>cool ppl in following</em>
  
  <p align="center">
  $$\text{\color{#521818}{c+h is okay! im always offtabbed most of the time so whisper me if you wanna int :)}}$$
