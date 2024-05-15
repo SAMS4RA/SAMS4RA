@@ -16,7 +16,7 @@
  </p>
 
 <p align="center" >
-  <em>um what else do i put here</em>
+  <em>i like jingyuan and gallagher :)</em>
  </p>
 
 <p align="center">
