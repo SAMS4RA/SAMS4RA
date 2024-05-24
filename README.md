@@ -8,7 +8,7 @@
 <img src="https://wilardo.crd.co/assets/images/gallery21/6cfc0531.jpg?v=87117d4a"/>
 
 <p align="center" >
-  <em>any pronouns</em>
+  <em>any pronouns | PH/ENG </em>
  </p>
  
  <p align="center">
