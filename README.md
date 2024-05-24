@@ -16,7 +16,7 @@
  </p>
 
 <p align="center" >
-  <em>i like jingyuan and gallagher :)</em>
+  <em>i like jingyuan and gallagher adn argenti :)</em>
  </p>
 
 <p align="center">
