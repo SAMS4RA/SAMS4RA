@@ -1,7 +1,7 @@
  </p>
 
 <h2 align="center" >
- $$\text{\color{#521818}{mar | arion}}$$
+ $$\text{\color{#521818}{mars}}$$
 </h2>
 
 <p align="center">
@@ -17,7 +17,7 @@
  </p>
  
  <p align="center">
- $$\text{\color{#521818}{i like jingyuan and gallagher adn argenti and boothill :)}}$$
+ $$\text{\color{#ffffff}{profile wip}}$$
  </p>
 
 <p align="center" >
