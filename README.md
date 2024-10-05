@@ -8,9 +8,6 @@
 <img src="https://wilardo.crd.co/assets/images/gallery21/6cfc0531.jpg?v=87117d4a"/>
 
 <div align="center">
-  
-[DAILY CLICK](https://arab.org/click-to-help/) </div>
-</p>
 
 <p align="center" >
   <em>any pronouns | PH/ENG </em>
